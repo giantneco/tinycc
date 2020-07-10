@@ -67,3 +67,19 @@ dkms.conf
 .history/
 
 
+### https://raw.github.com/github/gitignore/18aa6d83774d514da479d73a4beb864cd4220231/CMake.gitignore
+
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+build/
+
+
